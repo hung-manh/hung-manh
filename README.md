@@ -17,16 +17,16 @@
 </h1>
 
 
-<a href="https://github.com/hungmanhhoang/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hungmanhhoang" />
-</a>
-<a href="https://github.com/hungmanhhoang/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungmanhhoang&layout=compact&langs_count=8&card_width=320" />
-</a>
 
-<!--<a href="https://github.com/hungmanhhoang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hungmanhhoang&repo=Vietnam-Stock-Market-Insights" />
+<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hung-manh&show_icons=true&theme=radical&layout=compact" />
+
+
+<img height=200 align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hung-manh&theme=radical&layout=compact&langs_count=8" />
+
+
+<!--<a href="https://github.com/hung-manh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hung-manh&repo=Vietnam-Stock-Market-Insights" />
 </a>
-<a href="https://github.com/hungmanhhoang/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hungmanhhoang&repo=convoychat" />
+<a href="https://github.com/hung-manh/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hung-manh&repo=convoychat" />
 </a>  -->
