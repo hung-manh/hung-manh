@@ -18,7 +18,7 @@
 
 
 
-<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hung-manh&show_icons=true&theme=radical&layout=compact"/>
+<img height=200 align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=hung-manh&show_icons=true&theme=radical&layout=compact"/>
 
 
 <img height=200 align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hung-manh&theme=radical&layout=compact&langs_count=8"/>
