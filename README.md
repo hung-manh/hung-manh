@@ -18,10 +18,10 @@
 
 
 <a href="https://github.com/hungmanhhoang/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hungmanhhoang" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hungmanhhoang" />
 </a>
 <a href="https://github.com/hungmanhhoang/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungmanhhoang&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungmanhhoang&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--<a href="https://github.com/hungmanhhoang/github-readme-stats">
