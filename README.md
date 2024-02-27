@@ -18,10 +18,10 @@
 
 
 
-<img height=200 align="left" width="50.5%" src="https://github-readme-stats.vercel.app/api?username=hung-manh&theme=radical&layout=compact"/>
+<img height=200 align="left" width="50.5%" src="https://github-readme-stats.vercel.app/api?username=hung-manh&theme=radical&layout=compact&show_icons=true&hide_border=true"/>
 
 
-<img height=200 align="right" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hung-manh&theme=radical&layout=compact&langs_count=8"/>
+<img height=200 align="right" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hung-manh&theme=radical&layout=compact&langs_count=8&hide_border=true"/>
 
 
 <!--<a href="https://github.com/hung-manh/github-readme-stats">
