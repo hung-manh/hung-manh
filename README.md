@@ -14,7 +14,7 @@ I'm currently studying Computer Science at Hanoi University of Industry.. I spen
   <a href="https://www.messenger.com/t/hungmanh.hmh">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
   </a>
-  <a href="https://www.messenger.com/t/hungmanh.hmh">
+  <a href="mailto:hmh290204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
  <!-- <a href="https://www.youtube.com/channel/UCYgG-bmk92OhYsP20TS0MbQ">
